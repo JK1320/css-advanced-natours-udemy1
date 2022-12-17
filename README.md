@@ -1,5 +1,5 @@
 # css-advanced-natours-udemy1
-### SASS
+### SASS (Sass syntax & SCSS syntax)
 * => Variables: for reusable values such as colors, font-sizes, spacing, etc;
 * => Nesting: to nest selectors inside of one another, allowing us to write less code;
 * => Operators: for mathematical operations right inside of CSS;
