@@ -9,7 +9,7 @@
 * => Extends: to make different selectors inherit declarations that are common to all of them;
 * => Control directives: for writing complex code using conditionals and loops (not covered in this course).
 
-#### Add package.json file
-*=> npm init
+#### Add package.json file (1st time on new project otherwise npm i)
+* => npm init
 #### Add saas
 * => npm i node-sass --save-dev
