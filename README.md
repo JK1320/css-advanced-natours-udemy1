@@ -13,3 +13,10 @@
 * => npm init
 #### Add saas
 * => npm i node-sass --save-dev
+
+#### To compile scss add below to json file (add first scss file then css file)
+* => "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css"
+  },
+
+* => (and then use this command to compile) npm run compile:sass
