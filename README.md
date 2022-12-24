@@ -18,7 +18,7 @@
 * => "scripts": {
     "compile:sass": "node-sass sass/main.scss css/style.css"
   },
-* => For compiler to keep watching for changes just add -w like below:
+* => For compiler to keep watching for changes just add -w like below (didn't work for me, installed compiler extension as per solution):
     "scripts": {
     "compile:sass": "node-sass sass/main.scss css/style.css -w"
   },
