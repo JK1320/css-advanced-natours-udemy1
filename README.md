@@ -23,4 +23,4 @@
     "compile:sass": "node-sass sass/main.scss css/style.css -w"
   },
 
-* => (and then use this command to compile) npm run compile:sass (this one works: npm run watch:sass)
+* => (and then use this command to compile) npm run compile:sass (npm run watch:sass)
