@@ -3,7 +3,14 @@
 
     &__checkbox {}
 
-    &__button {}
+    &__button {
+        background-color: $color-white;
+        height: 7rem;
+        width: 7rem;
+        position: fixed;
+        top: 6rem;
+        right: 6rem;
+    }
 
     &__background {
         height: 6rem;
